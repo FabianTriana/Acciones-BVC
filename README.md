@@ -10,4 +10,4 @@ Aplicación Web escrita en Python (Dash-Plotly) estructurada como dashboard con 
 * Heroku
 
 ## Resultado:
-[Valkiria2.herokuapp.com](valkiria2.herokuapp.com)
+[Valkiria2.herokuapp.com](https://valkiria2.herokuapp.com/)
