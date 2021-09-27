@@ -8,3 +8,6 @@ Aplicación Web escrita en Python (Dash-Plotly) estructurada como dashboard con 
 * CSS
 * Beautiful Soup
 * Heroku
+
+## Resultado:
+Valkiria2.herokuapp.com
