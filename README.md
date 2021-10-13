@@ -11,3 +11,5 @@ Aplicación Web escrita en Python (Dash-Plotly) estructurada como dashboard con 
 
 ## Resultado:
 [Valkiria2.herokuapp.com](https://valkiria2.herokuapp.com/)
+
+![image](https://github.com/FabianTriana/Valkiria2-Analisis-Acciones-BVC/blob/main/Screenshots/Screenshot_1.png)
