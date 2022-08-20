@@ -1,5 +1,5 @@
 # Acciones BVC:
-Dash (Python microframework) web app designed as dashboard with basic information and fundamenta/technical indicators of Bolsa de Valores de Colombia (Colombia's stock exchange) most traded stocks.
+Dash (Python microframework) web app designed as dashboard with basic information and fundamental/technical indicators of Bolsa de Valores de Colombia (Colombia's stock exchange) most traded stocks.
 
 ## Tools:
 * Dash-Plotly
