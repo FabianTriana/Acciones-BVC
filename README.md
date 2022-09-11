@@ -11,6 +11,6 @@ Dash (Python microframework) web app designed as dashboard with basic informatio
 * Heroku
 
 ## The App:
-[Valkiria2.herokuapp.com](https://valkiria2.herokuapp.com/)
+[accionesbvc.herokuapp.com](https://accionesbvc.herokuapp.com/)
 
 ![image](https://github.com/FabianTriana/Valkiria2-Analisis-Acciones-BVC/blob/main/Screenshots/Screenshot_1.png)
