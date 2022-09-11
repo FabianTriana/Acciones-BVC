@@ -20,5 +20,5 @@ Dash (Python microframework) web app designed as dashboard with basic informatio
 ![image](https://github.com/FabianTriana/Valkiria2-Analisis-Acciones-BVC/blob/main/Screenshots/Screenshot_2.png)
 
 ### Mobile:
-**Main Page:*
+**Main Page:**
 ![image](https://github.com/FabianTriana/Valkiria2-Analisis-Acciones-BVC/blob/main/Screenshots/Screenshot_mobile_1.png)
