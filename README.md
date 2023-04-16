@@ -16,15 +16,20 @@ Dash (Python microframework) web app designed as dashboard with basic informatio
 **Main Page:**
 ![image](https://github.com/FabianTriana/Acciones-BVC/blob/main/Screenshots/Screenshot_1.png)
 
+
 **Market Info Page:**
 ![image](https://github.com/FabianTriana/Acciones-BVC/blob/main/Screenshots/Screenshot_2.png)
+
 
 **Detail Page:**
 ![image](https://github.com/FabianTriana/Acciones-BVC/blob/main/Screenshots/Screenshot_3.png)
 
 ### Mobile:
 **Main Page:**
+
 ![image](https://github.com/FabianTriana/Acciones-BVC/blob/main/Screenshots/Screenshot_mobile_1.png)
 
+
 **Market Info Page:**
+
 ![image](https://github.com/FabianTriana/Acciones-BVC/blob/main/Screenshots/Screenshot_mobile_2.png)
