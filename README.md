@@ -7,17 +7,19 @@ Dash (Python microframework) web app designed as dashboard with basic informatio
 * Cufflinks
 * HTML
 * CSS
-* Beautiful Soup
-* Heroku
+* Render
 
 ## The App:
-[accionesbvc.herokuapp.com](https://accionesbvc.herokuapp.com/)
+[accionesbvc.onrender.com](https://accionesbvc.onrender.com/)
 
 ### Desktop:
 **Main Page:**
 ![image](https://github.com/FabianTriana/Acciones-BVC/blob/main/Screenshots/Screenshot_1.png)
-**Main Page:**
+
+**Market Info Page:**
 ![image](https://github.com/FabianTriana/Acciones-BVC/blob/main/Screenshots/Screenshot_2.png)
+
+**Detail Page:**
 
 ### Mobile:
 **Main Page:**
